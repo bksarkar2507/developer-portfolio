@@ -19,6 +19,9 @@ h1{
 .half-width img{
     width: 80%;
 }
+h2{
+    font-size: 40px;
+}
 .link-button{
     text-decoration: none;
     background-color: orange;
@@ -36,4 +39,16 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat; 
     background-position: right;
+}
+.experience-item{
+    box-shadow: 10px 10px 30px grey;
+    width: 40%;     
+    margin: 0 5% 0 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
